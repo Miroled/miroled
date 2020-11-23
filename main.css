@@ -1,0 +1,43 @@
+.Nono{
+	width: 140px;
+}
+
+h1{
+	font-size: 30px;
+}
+h2 {
+	color: white;
+	background: #008001;
+	font-size: 20px;
+}
+
+h2.Lolo {
+	padding: 10px 10px;
+}
+
+h2.bobo {
+	padding: 50px 50px;
+}
+
+p.first {
+	background: blue;
+	color: white;
+	margin-bottom: 100px;
+	width: 100px;
+}
+.dodo {
+	margin-left: 150px;
+	}
+li.gogo {
+	border: 2px solid black;
+}
+a.jojo {
+	color: blue;
+}
+ul.Koko {
+	font-size: 30px;
+}
+
+p{
+	font-size: 15px;
+}
